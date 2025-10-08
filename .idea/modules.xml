@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basic Coding Questions/Basic Coding Questions.iml" filepath="$PROJECT_DIR$/Basic Coding Questions/Basic Coding Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Coding Interview QP.iml" filepath="$PROJECT_DIR$/.idea/Coding Interview QP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/DSA.iml" filepath="$PROJECT_DIR$/DSA/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Deadlock/Deadlock.iml" filepath="$PROJECT_DIR$/Deadlock/Deadlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValidParentheses/Paranthesis.iml" filepath="$PROJECT_DIR$/ValidParentheses/Paranthesis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream API/Stream API.iml" filepath="$PROJECT_DIR$/Stream API/Stream API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+    </modules>
+  </component>
+</project>
